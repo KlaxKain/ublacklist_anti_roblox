@@ -14,6 +14,11 @@ homepage: https://github.com/KlaxKain/ublacklist-anti-roblox
 *://twinatlas.com/*
 *://www.dobigstudios.com/*
 
+#youtube-sites
+*://*.youtube.com/@BuildIntoGames
+*://*.youtube.com/@PlayAdoptMe
+*://*.youtube.com/@SonarStudiosRoblox
+
 #Related_sites
 *://*.blox.link/*
 *://*.rolimons.com/*
