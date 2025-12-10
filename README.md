@@ -4,7 +4,7 @@ Get uBlacklist for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ubla
 
 ## Install
 
-To add blocklists, add URL to your subscriptions:
+To add blocklists, add this URL to your subscriptions:
 
 ```
 https://raw.githubusercontent.com/KlaxKain/ublacklist_anti_roblox/refs/heads/main/ublacklist_anti_roblox
